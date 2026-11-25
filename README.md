@@ -50,3 +50,23 @@ student-expense-splitter/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+## Prompt Engineering Techniques
+
+### Zero-Shot Prompting
+Used to generate the initial project structure and core
+functionality without providing examples.
+
+### Few-Shot Prompting
+Used examples to guide the AI in following consistent
+coding conventions and output formats.
+
+### Chain-of-Thought Prompting
+Used to analyze complex expense-splitting calculations,
+identify edge cases, debug errors, and improve unit tests.
+
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
